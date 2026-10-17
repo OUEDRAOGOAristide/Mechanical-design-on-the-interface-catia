@@ -1,0 +1,1 @@
+Applied CATIA to mechanical component design and machining simulation, focusing on milling and turning operations to support manufacturing process planning and validate component geometry.So, the files show the simulation of turning and milling in catia.
